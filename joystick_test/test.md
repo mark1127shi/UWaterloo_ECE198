@@ -11,7 +11,7 @@ An Arduino project that uses a joystick to navigate an LCD menu.
 
 ## Setup
 
-1. Connect the Arduino to your computer.
+1. Connect the Arduino to computer.
 2. Open the sketch in Arduino IDE.
 3. Select the board and port, then click **Upload**.
 
